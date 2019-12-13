@@ -294,7 +294,7 @@ Installing DroneKit on RPi
 
 .. tip::
 
-   The most up-to-date instructions for `Installing DroneKit <http://python.dronekit.io/guide/quick_start.html#installation>`__
+   The most up-to-date instructions for `Installing DroneKit <https://dronekit-python.readthedocs.io/en/latest/guide/quick_start.html>`__
    on Linux are in the DroneKit-Python documentation. This information is a
    summary, and might go out of date.
 
